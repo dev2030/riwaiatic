@@ -1,0 +1,503 @@
+#	Cn	color	rgb	arabic	englis
+1	Love	red	178,34,34	حب	Love
+1	Love	red	178,34,34	عشق	Love
+1	Love	red	178,34,34	افتتان	fascination
+1	Love	red	178,34,34	هيام	Adoration
+1	Love	red	178,34,34	معجب	fan
+1	Love	red	178,34,34	عاشق	Lover
+1	Love	red	178,34,34	يعشق	Adores
+1	Love	red	178,34,34	عاطفة	Emotion
+1	Love	red	178,34,34	مودة	love
+1	Love	red	178,34,34	تعلق	Attached
+1	Love	red	178,34,34	ارتباط	Engagement
+1	Love	red	178,34,34	محبوب	lovable
+1	Love	red	178,34,34	متيم	lovelorn
+1	Love	red	178,34,34	شوق	Longing
+1	Love	red	178,34,34	جذب	Attract
+1	Love	red	178,34,34	شغف	passion
+1	Love	red	178,34,34	ولع	fondness
+1	Love	red	178,34,34	فتن	fascinate
+1	Love	red	178,34,34	محب	Loving
+2	anger	red	205,92,92	الغضب	Anger
+2	anger	red	205,92,92	الاثارة	Excitement
+2	anger	red	205,92,92	الحنق	Fret
+2	anger	red	205,92,92	يستشيط	Maseat
+2	anger	red	205,92,92	الضيق	The distress
+2	anger	red	205,92,92	ساخط	indignant
+2	anger	red	205,92,92	العداء	Hostility
+2	anger	red	205,92,92	الكراهية	The hatred
+2	anger	red	205,92,92	العنف	Violence
+2	anger	red	205,92,92	استفز	Provoke
+2	anger	red	205,92,92	انفعل	effervesce
+#2	anger	red	205,92,92	شديد السخط	Very indignant
+2	anger	red	205,92,92	السخط	indignant
+2	anger	red	205,92,92	يغلي	Boil
+2	anger	red	205,92,92	ثورة	Revolution
+2	anger	red	205,92,92	ثائر	Thaer
+2	anger	red	205,92,92	تمرد	insurgency
+2	anger	red	205,92,92	ثور	ox
+2	anger	red	205,92,92	حرب	war
+2	anger	red	205,92,92	هجومي	offensive
+2	anger	red	205,92,92	معض	Some
+2	anger	red	205,92,92	امتعاض	resentment
+2	anger	red	205,92,92	ضيق	tight
+2	anger	red	205,92,92	هدد	Threatened
+3	happiness	red	255,127,80	الانبساط	extroversion
+3	happiness	red	255,127,80	السعادة	Happinese
+3	happiness	red	255,127,80	المتعة	joy
+3	happiness	red	255,127,80	الخلاص	Salvation
+3	happiness	red	255,127,80	الفرحة	Joy
+3	happiness	red	255,127,80	التسلية	entertainment
+3	happiness	red	255,127,80	الغبطة	Elation
+3	happiness	red	255,127,80	الارتياح	Satisfaction
+3	happiness	red	255,127,80	ابتهاج	cheer
+3	happiness	red	255,127,80	اِحْمرّ	red
+3	happiness	red	255,127,80	احتفال	a celebration
+3	happiness	red	255,127,80	تسلى	entertain
+3	happiness	red	255,127,80	جذلان	gleeful
+3	happiness	red	255,127,80	مبتهج	cheery
+3	happiness	red	255,127,80	مبهج	delightful
+3	happiness	red	255,127,80	حظ	luck
+3	happiness	red	255,127,80	سعيد	good luck
+#3	happiness	red	255,127,80	حظ سعيد	good luck
+#3	happiness	red	255,127,80	حسن الحظ	Fortunately
+3	happiness	red	255,127,80	مسرور	pleased
+3	happiness	red	255,127,80	محظوظ	Lucky
+3	happiness	red	255,127,80	مرح	Fun
+4	Sorrow	Brown	128,0,0	الحزن	Sorrow
+4	Sorrow	Brown	128,0,0	الأسي	Exponential
+#4	Sorrow	Brown	128,0,0	الحزن الشديد	extreme sadness
+#4	Sorrow	Brown	128,0,0	عدم البهجة	Not cheerful
+4	Sorrow	Brown	128,0,0	الكآبة	Depression
+4	Sorrow	Brown	128,0,0	الانقباض	Constriction
+4	Sorrow	Brown	128,0,0	اِكْتِئاب	Depression
+4	Sorrow	Brown	128,0,0	أدْمع	Listen
+4	Sorrow	Brown	128,0,0	دمع	tear
+4	Sorrow	Brown	128,0,0	بكاء	crying
+4	Sorrow	Brown	128,0,0	لوعة	Pungency
+4	Sorrow	Brown	128,0,0	بكى	Fret
+4	Sorrow	Brown	128,0,0	كئيب	bleak
+4	Sorrow	Brown	128,0,0	كرب	distress
+4	Sorrow	Brown	128,0,0	حداد	Smith
+#4	Sorrow	Brown	128,0,0	غير راض	Not satisfied
+4	Sorrow	Brown	128,0,0	محزن	depressing
+4	Sorrow	Brown	128,0,0	الأسى	Grief
+5	desire	Pink	255,182,193	مغازلة	courting
+5	desire	Pink	255,182,193	رغبة	desire
+5	desire	Pink	255,182,193	انجذاب	attraction
+5	desire	Pink	255,182,193	جذب	Attract
+5	desire	Pink	255,182,193	جاذبية	gravity
+5	desire	Pink	255,182,193	أنوثة	Femininity
+5	desire	Pink	255,182,193	حميمية	Intimacy
+5	desire	Pink	255,182,193	راغب	willing
+5	desire	Pink	255,182,193	جذاب	Attractive
+5	desire	Pink	255,182,193	يدلل	Pamper
+6	excitement	Pink	255,105,180	إِثارة	excitement
+6	excitement	Pink	255,105,180	جنس	sex
+6	excitement	Pink	255,105,180	أثار	Effects
+6	excitement	Pink	255,105,180	رغْبة	Sexual desire
+6	excitement	Pink	255,105,180	جِنْسِيّة	libido
+6	excitement	Pink	255,105,180	شبق	rut
+7	Bravery	red	240,128,128	تجاسر	Dare
+7	Bravery	red	240,128,128	جرأة	boldness
+7	Bravery	red	240,128,128	شجاعة	Bravery
+7	Bravery	red	240,128,128	تحدى	a challenge
+7	Bravery	red	240,128,128	غامر	overwhelming
+7	Bravery	red	240,128,128	جازف	Take a risk
+7	Bravery	red	240,128,128	خاطر	risk
+7	Bravery	red	240,128,128	راهن	Bet
+7	Bravery	red	240,128,128	قامر	gamble
+7	Bravery	red	240,128,128	شجاع	brave
+7	Bravery	red	240,128,128	شجع	Encouraged
+7	Bravery	red	240,128,128	ضارب	Thumper
+7	Bravery	red	240,128,128	مندفع	impulsive
+7	Bravery	red	240,128,128	رباطة	Bravery
+8	laziness	gray	105,105,105	بلادة	dullness
+8	laziness	gray	105,105,105	كسل	laziness
+8	laziness	gray	105,105,105	ضعف	weakness
+8	laziness	gray	105,105,105	أرْهق	weight
+8	laziness	gray	105,105,105	ارهاق	Exhaustion
+8	laziness	gray	105,105,105	تعب	fatigue
+8	laziness	gray	105,105,105	العجز	Impotence
+8	laziness	gray	105,105,105	الوهن	weakness
+#8	laziness	gray	105,105,105	غير قادر	unable
+8	laziness	gray	105,105,105	رهق	Fatigue
+8	laziness	gray	105,105,105	عاجز	helpless
+8	laziness	gray	105,105,105	فتر	Cool down
+9	Importance	red	233,150,122	أهمية	Importance
+9	Importance	red	233,150,122	مهتم	interested
+9	Importance	red	233,150,122	هام	Important
+9	Importance	red	233,150,122	مهم	Important
+10	Risk	red	255,69,0	عرض	Endangered
+10	Risk	red	255,69,0	خطر	Risk
+10	Risk	red	255,69,0	سرعة	Speed
+10	Risk	red	255,69,0	تحْذِير	worning
+10	Risk	red	255,69,0	خطر	Risk
+10	Risk	red	255,69,0	ممنوع	Forbidden
+10	Risk	red	255,69,0	توقف	Stop
+10	Risk	red	255,69,0	حذر	Cautious
+11	Compassion	red	139,0,0	أحس	feel
+11	Compassion	red	139,0,0	التعاطف	Empathy
+11	Compassion	red	139,0,0	عطف	sympathy
+11	Compassion	red	139,0,0	تعاطف	sympathy
+11	Compassion	red	139,0,0	شفقة	Compassion
+11	Compassion	red	139,0,0	حنان	Tenderness
+11	Compassion	red	139,0,0	حنّ	Crave
+11	Compassion	red	139,0,0	رحْمة	Mercy
+11	Compassion	red	139,0,0	شفقة	Compassion
+11	Compassion	red	139,0,0	طيب	Good heart
+11	Compassion	red	139,0,0	عاطفة	Emotion
+11	Compassion	red	139,0,0	عاطفي	passionate
+12	fear	black	40,40,60	خوف	fear
+12	fear	black	40,40,60	الرعب	the horror
+12	fear	black	40,40,60	الذعر	Panic
+12	fear	black	40,40,60	أفزاع	dismay
+12	fear	black	40,40,60	فزع	panic
+12	fear	black	40,40,60	خائف	horrified
+12	fear	black	40,40,60	رهب	Monk
+12	fear	black	40,40,60	فزع	panic
+12	fear	black	40,40,60	روع	Terrified
+12	fear	black	40,40,60	هلع	panic
+13	disappointment	Yellow	255,239,213	خيبة	disappointment
+13	disappointment	Yellow	255,239,213	تعس	Unhappy
+13	disappointment	Yellow	255,239,213	يأس	Desperate
+13	disappointment	Yellow	255,239,213	مكتئب	Dejected - Depressed
+13	disappointment	Yellow	255,239,213	مكسور	Heart broken
+13	disappointment	Yellow	255,239,213	إحباط	frustration
+13	disappointment	Yellow	255,239,213	منخفضة	Low spirits
+13	disappointment	Yellow	255,239,213	محبط	Disappointed
+13	disappointment	Yellow	255,239,213	سوء	bad luck
+14	death	black	0,0,0	موت	death
+14	death	black	0,0,0	فناء	the yard
+14	death	black	0,0,0	ظلام	darkness
+14	death	black	0,0,0	العدم	Nothingness
+14	death	black	0,0,0	الفراغ	Void
+14	death	black	0,0,0	فارغ	Empty
+14	death	black	0,0,0	ميت	dead
+14	death	black	0,0,0	حداد	pall
+14	death	black	0,0,0	رحيل	leave
+15	professionalism	black	47,47,47	احتراف	professionalism
+15	professionalism	black	47,47,47	جدي	Serios
+15	professionalism	black	47,47,47	جدية	seriousness
+15	professionalism	black	47,47,47	جودة	High quality
+16	elegance	black	95,95,95	اناقة	elegance
+16	elegance	black	95,95,95	موضة	fashion
+16	elegance	black	95,95,95	رسمية	Formal
+17	heat	red	255,99,71	حرارة	heat
+17	heat	red	255,99,71	توهج	glow
+17	heat	red	255,99,71	توقد	glow
+17	heat	red	255,99,71	لمع	Shine
+17	heat	red	255,99,71	تورد	Blush
+17	heat	red	255,99,71	تألق	shine on
+17	heat	red	255,99,71	أومض	Flashing
+17	heat	red	255,99,71	لهب	flame
+17	heat	red	255,99,71	وهج	glare
+17	heat	red	255,99,71	اتقد	Come on
+17	heat	red	255,99,71	حرارة	heat
+17	heat	red	255,99,71	إشعاع	radiation
+17	heat	red	255,99,71	سطوع	brightness
+17	heat	red	255,99,71	برق	Lightning
+17	heat	red	255,99,71	نار	Fire
+17	heat	red	255,99,71	حرائق	Fires
+17	heat	red	255,99,71	صيف	summer
+18	confidence	blue	25,25,112	ثقة	confidence
+18	confidence	blue	25,25,112	الثقة	Self confidence
+18	confidence	blue	25,25,112	المؤكد	Certain
+18	confidence	blue	25,25,112	أكد	Confirmed
+18	confidence	blue	25,25,112	واثق	confident
+19	stress	black	50,80,30	الارتباك	Confusion
+19	stress	black	50,80,30	متوتر	Tense
+19	stress	black	50,80,30	التوتر	Stress
+19	stress	black	50,80,30	أقْلق	worry
+20	nature	green	124,252,0	بيئة	Environment
+20	nature	green	124,252,0	نظيفة	Clean nature
+20	nature	green	124,252,0	خضراء	Green nature
+20	nature	green	124,252,0	طبيعة	nature
+21	fertility	green	0.255.0	خِصْب	fertile
+21	fertility	green	0.255.0	خصوبة	fertility
+22	Life	red	255,140,0	تنْشِيط	Energizing
+22	Life	red	255,140,0	تنْبِيه	Attention
+22	Life	red	255,140,0	نشاط	Activity
+22	Life	red	255,140,0	نشيط	Energetic
+22	Life	blue	255,140,0	نشط	active
+22	Life	blue	255,140,0	حياة	Life
+22	Life	blue	255,140,0	حيويّة	Vitality
+23	meanness	brown	165,42,42	مقزز	Disgusting
+23	meanness	brown	165,42,42	مقيت	detestable
+23	meanness	brown	165,42,42	حقر	blackguard
+23	meanness	brown	165,42,42	حقير	tacky
+23	meanness	brown	165,42,42	وضيع	Scurvy
+23	meanness	brown	165,42,42	خِسَّة	meanness
+23	meanness	brown	165,42,42	دناءة	abjection
+24	stringth	blue	0,0,139	قوة	Energy
+#24	stringth	blue	0,0,139	قوة الإرادة	Willpower
+24	stringth	blue	0,0,139	قوي	strong
+24	stringth	blue	0,0,139	عزم	determination
+24	stringth	blue	0,0,139	عزيمة	Determination
+25	power	blue	0,0,205	قيادة	Leadership
+25	power	blue	0,0,205	سلطة	power
+26	calm	green	60,179,113	تهدئة	Calm down
+26	calm	green	60,179,113	هدوء	calm
+26	calm	green	60,179,113	هادئ	Quiet
+26	calm	green	60,179,113	استقرار	stability
+26	calm	green	60,179,113	طمأنينة	Tranquility
+26	calm	green	60,179,113	توازن	Balance
+27	Doubt	black	60,60,120	غموض	ambiguity
+27	Doubt	black	60,60,120	ريب	Decidedly
+27	Doubt	black	60,60,120	شك	Doubt
+27	Doubt	black	60,60,120	مشكوك	Doubtful
+27	Doubt	black	60,60,120	غيرمؤكد	Uncertain
+27	Doubt	black	60,60,120	ظن	Thought
+27	Doubt	black	60,60,120	مرتاب	doubting
+28	Guilt	black	60,60,120	الذنب	Guilt
+28	Guilt	black	60,60,120	إثم	sin
+28	Guilt	black	60,60,120	الندم	Regret
+28	Guilt	black	60,60,120	الاذلال	Humiliation
+28	Guilt	black	60,60,120	عار	Shame
+28	Guilt	black	60,60,120	إهانة	insult
+29	creativity	blue	0,191,255	الابداع	creativity
+29	creativity	blue	0,191,255	الابتكار	Innovation
+29	creativity	blue	0,191,255	الاختراع	invention
+29	creativity	blue	0,191,255	الهام	Important
+29	creativity	blue	0,191,255	وحي	inspiration
+29	creativity	blue	0,191,255	ملهم	Inspirational
+30	respect	gray	110,110,110	احترام	respect
+30	respect	gray	110,110,110	تبجيل	reverence
+30	respect	gray	110,110,110	تقدير	Appreciation
+30	respect	gray	110,110,110	يقدر	Estimated value
+30	respect	gray	110,110,110	يدرك	Realizes value
+31	surrender	White	255,255,255	استسلام	surrender
+31	surrender	White	255,255,255	انقياد	docility
+31	surrender	White	255,255,255	التنازل	Waiver
+32	Faith	White	255,250,250	إيمان	Faith
+32	Faith	White	255,250,250	أمن	security
+32	Faith	White	255,250,250	آمن	security
+33	Sea	blue	106,90,205	ماء	Water
+33	Sea	blue	106,90,205	بحار	a sailor
+33	Sea	blue	106,90,205	بحر	Sea
+33	Sea	blue	106,90,205	محيط	Ocean
+34	softness	blue	123,104,238	رقة	Paper
+34	softness	blue	123,104,238	نعومة	softness
+34	softness	blue	123,104,238	ملاك	Angel
+34	softness	blue	123,104,238	رقيق	Thin person
+35	shame	blue	72,61,139	انطواء	Introvert
+35	shame	blue	72,61,139	حرج	critical
+35	shame	blue	72,61,139	خجل	Shy
+35	shame	blue	72,61,139	محرج	Embarrassed
+36	purity	White	240,255,240	براءة	innocence
+36	purity	White	240,255,240	بتولية	virginity
+36	purity	White	240,255,240	طهر	Disinfect
+36	purity	White	240,255,240	طهارة	purity
+36	purity	White	240,255,240	عفة	chastity
+36	purity	White	240,255,240	نقي	pure
+36	purity	White	240,255,240	نقاء	purity
+37	Cold	White	245,255,250	برد	Cold
+37	Cold	White	245,255,250	برودة	Cooler
+37	Cold	White	245,255,250	ثلج	snow
+37	Cold	White	245,255,250	جليد	ice
+37	Cold	White	245,255,250	شتاء	winter
+38	trees	green	0,255,127	ربيع	spring
+38	trees	green	0,255,127	أشجار	trees
+38	trees	green	0,255,127	عشب	Herb
+38	trees	green	0,255,127	حشائش	Grass
+39	humility	black	112,128,144	بساطة	simplicity
+39	humility	black	112,128,144	تواضع	humility
+#39	humility	black	112,128,144	إماتة الجسد	mortification
+39	humility	black	112,128,144	تنسك	mortify
+39	humility	black	112,128,144	كبح	mortification
+39	humility	black	112,128,144	زهد	asceticism
+40	liberal	White	240,255,255	متحرر	liberal
+40	liberal	White	240,255,255	تحرر	Liberation
+40	liberal	White	240,255,255	حرية	freedom
+41	Prayer	White	240,248,255	تأمل	Meditation
+41	Prayer	White	240,248,255	صلاة	Prayer
+41	Prayer	White	240,248,255	هادئ	Quiet
+41	Prayer	White	240,248,255	هدأ	calm
+41	Prayer	White	240,248,255	مطمئن	Reassured
+42	sky	blue	135,206,250	غيوم	Clouds
+42	sky	blue	135,206,250	سماء	sky
+42	sky	blue	135,206,250	مطر	rain
+43	new	Green	154,205,50	تجدد	Rejuvenate
+43	new	Green	154,205,50	تجديد	renewal
+43	new	Green	154,205,50	جديد	new
+43	new	Green	154,205,50	جدة	Grandmother
+43	new	Green	154,205,50	حداثة	novelty
+44	hostile	red	220,20,60	عدائي	hostile
+44	hostile	red	220,20,60	عدوان	aggression
+44	hostile	red	220,20,60	بغيض	hateful
+44	hostile	red	220,20,60	كراهية	hatred
+44	hostile	red	220,20,60	كره	a ball ??
+45	competitor	red	255,160,122	مُسابِق	Advance
+45	competitor	red	255,160,122	مُنافِس	competitor
+45	competitor	red	255,160,122	مُتنافِس	competitor
+45	competitor	red	255,160,122	مُتسابِق	racer
+45	competitor	red	255,160,122	سبق	precede
+45	competitor	red	255,160,122	مُتبارِ	competition
+46	Illness	Yallow	189,183,107	مرض	Illness
+46	Illness	Yallow	189,183,107	يتألم	hurt
+46	Illness	Yallow	189,183,107	مُؤْلِم	painful
+46	Illness	Yallow	189,183,107	مصاب	Injured
+46	Illness	Yallow	189,183,107	مريض	Ill mood
+47	Insist	Green	50,205,50	التصميم	the design
+47	Insist	Green	50,205,50	الاصرار	Determination
+47	Insist	Green	50,205,50	أصرّ	Insist
+47	Insist	Green	50,205,50	مثابرة	perseverance
+47	Insist	Green	50,205,50	حريص	Careful
+48	friendship	White	248,248,255	القبول	admissions
+48	friendship	White	248,248,255	صداقة	friendship
+48	friendship	White	248,248,255	اللطف	Kindness
+49	optimism	White	245,245,245	التفاؤل	optimism
+49	optimism	White	245,245,245	الانسجام	Internal harmony
+49	optimism	White	245,245,245	الرضى	Contentment
+49	optimism	White	245,245,245	امل	Amal
+50	initiative	Green	46,139,87	مبادرة	initiative
+50	initiative	Green	46,139,87	تحمل	Take responsibility
+50	initiative	Green	46,139,87	اهبة	Standby
+50	initiative	Green	46,139,87	استعداد	ready
+51	sincerely	Green	34,139,34	مخلص	sincerely
+51	sincerely	Green	34,139,34	مكرس	devoted
+51	sincerely	Green	34,139,34	إخلاص	sincerity
+51	sincerely	Green	34,139,34	وفاء	Wafa
+52	relaxation	Green	0,128,0	استرخاء	relaxation
+52	relaxation	Green	0,128,0	انسجام	harmony
+52	relaxation	Green	0,128,0	راحة	Serenity
+52	relaxation	Green	0,128,0	راحة	Comfort
+53	Envy	yeloww	250,250,210	الحسد	Envy
+53	Envy	yeloww	250,250,210	الغيرة	Jealousy
+53	Envy	yeloww	250,250,210	حقد	grudge
+53	Envy	yeloww	250,250,210	غيرة	Jealous
+54	Eternal life	Green	128,128,0	أبدية	Eternal life
+54	Eternal life	Green	128,128,0	جنة	Paradise
+54	Eternal life	Green	128,128,0	نعيم	Naeem
+54	Eternal life	Green	128,128,0	خلود	Immortality 
+55	arrogance	Red	250,128,114	غطرسة	arrogance
+55	arrogance	Red	250,128,114	النرجسية	Narcissism
+55	arrogance	Red	250,128,114	الذات	Self-love
+55	arrogance	Red	250,128,114	الغرور	Vanity
+56	growth	Green	173,255,47	نماء	Development 
+56	growth	Green	173,255,47	نمو	growth
+56	growth	Green	173,255,47	شباب	Youth
+56	growth	Green	173,255,47	غِر	Change
+57	Aspire	Yallow	255,255,0	طمح	Aspire
+57	Aspire	Yallow	255,255,0	طموح	Ambition
+57	Aspire	Yallow	255,255,0	طموح	Ambition
+57	Aspire	Yallow	255,255,0	عالية	high spirits
+58	Darkness	Black	60,60,100	ظلمات	Darkness
+58	Darkness	Black	60,60,100	ليل	The night sky
+59	Control	Green	85,107,47	تحكم	Control
+59	Control	Green	85,107,47	هيمن	she is from
+59	Control	Green	85,107,47	هيمنة	she is from
+59	Control	Green	85,107,47	سيطرة	control
+60	marriage	White	255,245,238	زواج	marriage 
+60	marriage	White	255,245,238	العروس	The bride's dress
+60	marriage	White	255,245,238	عرس	wedding
+61	Enthusiasm	Purple	75,0,130	حماس	Enthusiasm
+61	Enthusiasm	Purple	75,0,130	حماسة	enthusiasm
+61	Enthusiasm	Purple	75,0,130	متحمس	Enthusiastic
+62	Evil	Black	40,40,30	شر	Evil
+62	Evil	Black	40,40,30	شرير	evil
+62	Evil	Black	40,40,30	شيطان	A demon
+63	Imaginary	Purple	128,0,128	خيالي	Imaginary
+63	Imaginary	Purple	128,0,128	حلم	Dream
+63	Imaginary	Purple	128,0,128	رائع	dream
+63	Imaginary	Purple	128,0,128	سحر	magic
+64	Resilience	Blue	65,105,225	صمود	Resilience
+64	Resilience	Blue	65,105,225	الصبر	Patience
+64	Resilience	Blue	65,105,225	تحكم	Control feelings
+65	unfairness	Black	100,90,30	ظلم	unfairness
+65	unfairness	Black	100,90,30	غبن	injustice
+65	unfairness	Black	100,90,30	طغيان	tyranny
+66	Money	Green	107,142,35	مال	Money
+66	Money	Green	107,142,35	ثروة	Wealth
+66	Money	Green	107,142,35	ثراء	Richness
+67	Ideal	Blue	100,149,237	مثالية	Ideal
+67	Ideal	Blue	100,149,237	نزيه	impartial
+67	Ideal	Blue	100,149,237	نزاهة	integrity
+68	grey	gray	100,100,100	رمادي	grey
+68	grey	gray	100,100,100	فضي	silver
+69	socialism	Red	255,0,0	اشتراكية	socialism
+69	socialism	Red	255,0,0	شيوعية	Communism
+70	white	White	253,245,230	ابيض	white
+70	white	White	253,245,230	ضوء	Light
+71	Coward	Yallow	240,230,140	جبان	Coward
+71	Coward	Yallow	240,230,140	جبن	cheese
+72	greed	Green	143,188,143	جشع	Greed
+72	greed	Green	143,188,143	طمع	greed
+73	masculinity	Blue	0,0,255	ذكورة	masculinity
+73	masculinity	Blue	0,0,255	رجال	Men
+74	Playful	Purple	153,50,204	لعب	play
+74	Playful	Purple	153,50,204	لعوب	Playful
+75	Drugs	Green	85,107,47	ماريوانا	Marijuana
+75	Drugs	Green	85,107,47	مخدرات	Drugs
+76	Watchful	Red	255,165,0	وقظ	Watchful
+76	Watchful	Red	255,165,0	يقظة	vigilance
+77	Peerless	Black	41,41,41	وحيد	Single
+77	Peerless	Black	41,41,41	فذ	Peerless
+78	glare	Purple	186,85,211	بهرجة	glare
+78	glare	Purple	186,85,211	بذخ	Extravagance
+79	submission	Yallow	238,232,170	تبعية	subordination
+79	submission	Yallow	238,232,170	انصياع	Obedience
+79	submission	Yallow	238,232,170	خضوع	submission
+79	submission	Yallow	238,232,170	خنوع	meek
+80	falter	gray	128,128,128	تداعي	falter
+80	falter	gray	128,128,128	تلعثم	stutter
+80	falter	gray	128,128,128	ترنح	Ataxia
+80	falter	gray	128,128,128	متلعثم	falter
+80	falter	gray	128,128,128	مضطرب	falter
+80	falter	gray	128,128,128	تعثر	bog down
+80	falter	gray	128,128,128	سقط	Fell off
+80	falter	gray	128,128,128	تمايل	wobble
+81	overdo	Brown	160,82,45	تشدد	Stresses
+81	overdo	Brown	160,82,45	تطرف	overdo
+82	complication	Black	120,0,0	تعقيد	complication
+82	complication	Black	120,0,0	صعوبة	difficulty
+82	complication	Black	120,0,0	عقدة	Knot
+83	dirt	gray	169,169,169	تلوث	Pollution
+83	dirt	gray	169,169,169	قذارة	dirt
+84	Involvement	gray	192,192,192	تورط	Involvement
+84	Involvement	gray	192,192,192	شارك	Participate
+84	Involvement	gray	192,192,192	تدخل	intervention
+84	Involvement	gray	192,192,192	التزام	commitment
+84	Involvement	gray	192,192,192	تعلق	Attached
+85	Expect	Purple	255,0,255	توقع	Expect
+85	Expect	Purple	255,0,255	ترقب	stay tuned
+85	Expect	Purple	255,0,255	أمل	hopefull
+#85	Expect	Purple	255,0,255	تطلع الى	Look forward to
+85	Expect	Purple	255,0,255	تطلع	Look forward to
+85	Expect	Purple	255,0,255	انتظر	wait
+85	Expect	Purple	255,0,255	ترقب	stay tuned
+85	Expect	Purple	255,0,255	استبق	anticipate
+85	Expect	Purple	255,0,255	تنبأ	prophesy
+85	Expect	Purple	255,0,255	تبصر	insight
+85	Expect	Purple	255,0,255	بشر	Human beings
+85	Expect	Purple	255,0,255	انتظار	waiting
+85	Expect	Purple	255,0,255	احتمال	Prospect
+85	Expect	Purple	255,0,255	حدس	gut instinct
+86	merit	Blue	30,144,255	جدارة	merit
+86	merit	Blue	30,144,255	استحقاق	merit
+86	merit	Blue	30,144,255	خصاصة	merit
+86	merit	Blue	30,144,255	أهلية	Eligibility
+86	merit	Blue	30,144,255	كفاءة	efficiency
+86	merit	Blue	30,144,255	ملاءمة	Relevance
+86	merit	Blue	30,144,255	تناسب	suits
+87	wisdom	Blue	70,130,180	حكمة	wisdom
+87	wisdom	Blue	70,130,180	حصافة	sagacity
+87	wisdom	Blue	70,130,180	رجاحة	sapience
+87	wisdom	Blue	70,130,180	تعقل	prudence
+87	wisdom	Blue	70,130,180	احتراس	precaution
+87	wisdom	Blue	70,130,180	فطنة	acumen
+87	wisdom	Blue	70,130,180	اعتدال	sobriety
+87	wisdom	Blue	70,130,180	ذكاء	Intelligence
+87	wisdom	Blue	70,130,180	بصيرة	vision
+88	betrayal	Yallow	255,228,181	خيانه	betrayal
+88	betrayal	Yallow	255,228,181	إغرار	betrayal
+88	betrayal	Yallow	255,228,181	إفشاء	Disclosure of the secret
+88	betrayal	Yallow	255,228,181	غدر	treachery
+88	betrayal	Yallow	255,228,181	كفر	Unbelief
+88	betrayal	Yallow	255,228,181	خداع	tricked
+88	betrayal	Yallow	255,228,181	غش	cheating
+88	betrayal	Yallow	255,228,181	احتيال	scam
+88	betrayal	Yallow	255,228,181	تراجع	Retreat
+88	betrayal	Yallow	255,228,181	خدعة	Trick
+88	betrayal	Yallow	255,228,181	مخادعة	Deceitful
+88	betrayal	Yallow	255,228,181	تضليل	Mislead
